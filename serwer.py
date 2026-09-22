@@ -177,9 +177,9 @@ class GeoHandler(http.server.SimpleHTTPRequestHandler):
         else:
             super().do_GET()
 
-
 if __name__ == '__main__':
-    server_address = ('localhost', 5000)
+    port = int(os.environ.get('PORT', 5000))
+    server_address = ('0.0.0.0', port)
     httpd = http.server.HTTPServer(server_address, GeoHandler)
-    print("Serwer Pythona uruchomiony na http://localhost:5000")
+    print(f"Serwer uruchomiony na porcie {port}")
     httpd.serve_forever()
