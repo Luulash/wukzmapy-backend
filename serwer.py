@@ -87,6 +87,21 @@ def get_and_increment_visits():
     return count
 
 
+def get_current_visits():
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    txt_path = os.path.join(script_dir, 'visits.txt')
+    count = 0
+    if os.path.exists(txt_path):
+        try:
+            with open(txt_path, 'r', encoding='utf-8') as f:
+                content = f.read().strip()
+                if content.isdigit():
+                    count = int(content)
+        except:
+            pass
+    return count
+
+
 class GeoHandler(http.server.SimpleHTTPRequestHandler):
     def do_OPTIONS(self):
         self.send_response(200)
@@ -98,11 +113,22 @@ class GeoHandler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
         parsed_url = urllib.parse.urlparse(self.path)
 
-        # Obsługa licznika odwiedzin
+        # Obsługa licznika odwiedzin (zwiększanie przy wejściu na stronę)
         if parsed_url.path == '/api/hit':
             visits = get_and_increment_visits()
             print(f"--> [STATYSTYKI] Wejście na stronę! Łączna liczba odwiedzin: {visits}")
             response_data = {"visits": visits}
+            self.send_response(200)
+            self.send_header('Content-Type', 'application/json; charset=utf-8')
+            self.send_header('Access-Control-Allow-Origin', '*')
+            self.end_headers()
+            self.wfile.write(json.dumps(response_data, ensure_ascii=False).encode('utf-8'))
+            return
+
+        # Nowy adres do podglądu statystyk bez zwiększania licznika
+        if parsed_url.path == '/api/stats':
+            visits = get_current_visits()
+            response_data = {"total_visits": visits}
             self.send_response(200)
             self.send_header('Content-Type', 'application/json; charset=utf-8')
             self.send_header('Access-Control-Allow-Origin', '*')
@@ -118,7 +144,6 @@ class GeoHandler(http.server.SimpleHTTPRequestHandler):
 
                 x92, y92 = wgs84_to_puwg92(lat, lng)
 
-                # 1. GUGiK - Pobranie ID oraz geometrii WKT w WGS84
                 uldk_url = f"https://uldk.gugik.gov.pl/?request=GetParcelByXY&xy={x92},{y92}&result=id,geom_wkt&srid=4326"
                 req = urllib.request.urlopen(uldk_url)
                 uldk_text = req.read().decode('utf-8')
@@ -138,10 +163,9 @@ class GeoHandler(http.server.SimpleHTTPRequestHandler):
 
                 forest_info = ""
                 if parcel_id:
-                    # 2. BDL ArcGIS Identify
                     ext = 0.001
                     map_extent = f"{lng - ext},{lat - ext},{lng + ext},{lat + ext}"
-                    bdl_url = f"https://mapserver.bdl.lasy.gov.pl/arcgis/rest/services/WMS_BDL/MapServer/identify?f=json&tolerance=5&returnGeometry=false&imageDisplay=800,600,96&geometry={lng},{lat}&geometryType=esriGeometryPoint&sr=4326&mapExtent={map_extent}&layers=all"
+                    bdl_url = f"https://mapserver.bdl.lasy.gov.pl/arcgis/services/WMS_BDL/MapServer/identify?f=json&tolerance=5&returnGeometry=false&imageDisplay=800,600,96&geometry={lng},{lat}&geometryType=esriGeometryPoint&sr=4326&mapExtent={map_extent}&layers=all"
 
                     try:
                         headers = {'User-Agent': 'Mozilla/5.0'}
