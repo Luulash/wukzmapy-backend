@@ -1,0 +1,389 @@
+Augustów;ul. Turystyczna 19;16-300 Augustów
+Białowieża;ul. Wojciechówka 4;17-230 Białowieża
+Bielsk;ul. Studziwodzka 39;17-100 Bielsk Podlaski
+Borki;ul. Dworcowa 8A;11-612 Kruklanki
+Browsk;Gruszki 10;17-220 Narewka
+Czarna Białostocka;ul. Marszałkowska 27;16-020 Czarna Białostocka
+Czerwony Dwór;Czerwony Dwór 13;19-411 Świętajno
+Dojlidy;Al. Tysiąclecia Państwa Polskiego 75;15-111 Białystok
+Drygały;ul. Grunwaldzka 22;Drygały;12-230 Biała Piska
+Ełk;Mrozy Wielkie 21;19-301 Mrozy Wielkie
+Giżycko;ul. Leśna 2;11-500 Giżycko
+Głęboki Bród;Głęboki Bród 33;16-503 Giby
+Gołdap;ul. Leśników 1;19-500 Gołdap
+Hajnówka;ul. Kolejki Leśne 12;17-200 Hajnówka
+Knyszyn;Al. Niepodległości 31;19-100 Mońki
+Krynki;Poczopek 6D;16-113 Szudziałowo
+Łomża;ul. Nowogrodzka 60;18-400 Łomża
+Maskulińskie;ul. Rybacka 1;12-220 Ruciane-Nida
+Nowogród;Dębniki 80;18-416 Zbójna
+Nurzec;ul. Akacjowa 3;17-330 Nurzec-Stacja
+Olecko;ul. Kościuszki 32;19-400 Olecko
+Pisz;ul. Gdańska 24;12-200 Pisz
+Płaska;ul. Zielona 2;Sucha Rzeczka;16-326 Płaska
+Pomorze;Pomorze 8G;16-506 Giby
+Rajgród;Tama 2;19-206 Tama
+Rudka;ul. Olendzka 31;17-123 Rudka
+Supraśl;ul. Podsupraśl 8;16-030 Supraśl
+Suwałki;ul. Wojska Polskiego 1;16-400 Suwałki
+Szczebra;Szczebra 58;16-304 Nowinka
+Waliły;ul. Białostocka 3;Waliły-Stacja;16-040 Gródek
+Żednia;Żednia 5;16-050 Michałowo
+Cewice;ul. Wincentego Witosa 39;84-312 Cewice
+Choczewo;ul. Leśna 7;84-210 Choczewo
+Elbląg;ul. Marymoncka 5;82-300 Elbląg
+Gdańsk;ul. Morska 200;81-006 Gdynia
+Kaliska;ul. Długa 64;83-260 Kaliska
+Kartuzy;Burchardztwo 181;83-300 Kartuzy
+Kolbudy;ul. Osiedle Leśników 15;83-050 Kolbudy
+Kościerzyna;ul. Leśna 1;83-400 Kościerzyna
+Kwidzyn;ul. Braterstwa Narodów 63;82-500 Kwidzyn
+Lębork;ul. Wojska Polskiego 32;84-300 Lębork
+Lipusz;ul. Wybickiego 33;83-424 Lipusz
+Lubichowo;ul. Leśna 12;83-240 Lubichowo
+Starogard;ul. Gdańska 12;83-200 Starogard Gdański
+Strzebielino;ul. ks. Majkowskiego 10;84-250 Gniewino
+Wejherowo;ul. Prusa 2;84-200 Wejherowo
+Andrychów;ul. Słowackiego 2E;34-120 Andrychów
+Bielsko;ul. Cieszyńska 217;43-382 Bielsko-Biała
+Brynek;ul. Parkowa 1;42-690 Tworóg
+Brzeg;ul. Jana Kilińskiego 1;49-300 Brzeg
+Gidle;ul. Pławna 25;97-540 Gidle
+Herby;ul. Lubliniecka 1;42-284 Herby
+Chrzanów;ul. Mickiewicza 31;32-500 Chrzanów
+Jeleśnia;ul. Suska 5;34-340 Jeleśnia
+Katowice;ul. Kijowska 38A;40-754 Katowice
+Kędzierzyn;Stara Kuźnia;ul. Brzozowa 48;47-246 Kotlarnia
+Kluczbork;ul. Adama Mickiewicza 8;46-200 Kluczbork
+Kłobuck;ul. Staszica 32;42-100 Kłobuck
+Kobiór;ul. Leśna 2;43-210 Kobiór
+Zawadzkie;ul. Strzelecka 6;47-120 Zawadzkie
+Koniecpol;ul. Leśna 1;42-230 Koniecpol
+Koszęcin;ul. Sobieskiego 1;42-286 Koszęcin
+Kup;ul. 1 Maja 9;46-082 Kup
+Lubliniec;ul. Wyszyńskiego 11;42-700 Lubliniec
+Namysłów;ul. Oleśnicka 17;46-100 Namysłów
+Olesno;ul. Leśna 1;46-300 Olesno
+Olkusz;ul. Pakuska 24;32-300 Olkusz
+Prudnik;ul. Dąbrowskiego 2;48-200 Prudnik
+Prószków;ul. Opolska 11;46-060 Prószków
+Rudy Raciborskie;ul. Cystersów 4;47-430 Rudy
+Rudziniec;ul. Leśna 7;44-160 Rudziniec
+Rybnik;ul. Kościuszki 36;44-200 Rybnik
+Siewierz;ul. Czysta 3;42-470 Siewierz
+Strzelce Opolskie;ul. Marka 1;47-100 Strzelce Opolskie
+Sucha;ul. Zamkowa 1;34-200 Sucha Beskidzka
+Świerklaniec;ul. Piekarska 35;42-600 Tarnowskie Góry 
+Turawa;ul. Opolska 40;46-045 Turawa
+Tułowice;ul. Porcelanowa 1;49-130 Tułowice
+Ujsoły;ul. Glinka 88;34-371 Ujsoły
+Ustroń;ul. 3 Maja 92;43-450 Ustroń
+Wisła;ul. Jasna 10;43-460 Wisła
+Węgierska Górka;ul. Zielona 34;34-350 Węgierska Górka
+Złoty Potok;ul. Kościuszki 6;42-253 Złoty Potok
+Opole;ul. Groszowicka 10;45-517 Opole
+Brzesko;ul. Brzeska 59 (Jadowniki);32-800 Brzesko
+Dąbrowa Tarnowska;ul. Szarwarska 1;33-200 Dąbrowa Tarnowska
+Dębica;ul. Rzeszowska 142;39-200 Dębica
+Gorlice;Zagórzany 343;38-333 Zagórzany
+Gromnik;ul. Generała Andersa 1;33-180 Gromnik
+Krościenko;ul. Trzech Koron 4;34-450 Krościenko nad Dunajcem
+Krzeszowice;ul. Leśna 13;32-080 Zabierzów
+Limanowa;ul. Kopernika 3;34-600 Limanowa
+Łosie;Łosie 39;38-312 Ropa
+Miechów;os. Kolejowe 54A;32-200 Miechów
+Myślenice;ul. Szpitalna 13;32-400 Myślenice
+Nawojowa;ul. Lipowa 1;33-335 Nawojowa
+Niepołomice;ul. Myśliwska 41;32-005 Niepołomice
+Nowy Targ;ul. Kowaniec 70;34-400 Nowy Targ
+Piwniczna;ul. Zagrody 32;33-350 Piwniczna-Zdrój
+Stary Sącz;ul. Magazynowa 5;33-340 Stary Sącz
+Baligród;Baligród 53;38-606 Baligród
+Bircza;ul. Sanocka 38;37-740 Bircza
+Brzozów;ul. Sienkiewicza 9;36-200 Brzozów
+Cisna;Cisna 41;38-607 Cisna
+Dukla;ul. Trakt Węgierski 13;38-450 Dukla
+Dynów;ul. Karoliny Lanckorońskiej 3;36-065 Dynów
+Głogów;ul. Leśna 10;36-060 Głogów Małopolski
+Jarosław;ul. Słowackiego 68;37-500 Jarosław
+Kańczuga;ul. Studzienna 2;37-220 Kańczuga
+Kolbuszowa;ul. Rzeszowska 7;36-100 Kolbuszowa
+Kołaczyce;ul. Jasielska 43;38-213 Kołaczyce
+Komańcza;Komańcza 160;38-543 Komańcza
+Krasiczyn;Krasiczyn 31;37-741 Krasiczyn
+Lesko;ul. Słowackiego 12;38-600 Lesko
+Leżajsk;ul. Leśna 3;37-300 Leżajsk
+Lubaczów;ul. Ofiar Katynia 16;37-600 Lubaczów
+Lutowiska;Lutowiska 32;38-713 Lutowiska
+Mielec;ul. Partyzantów 11;39-300 Mielec
+Narol;ul. Parkowa 4;37-610 Narol
+Oleszyce;ul. Rynek 1;37-630 Oleszyce
+Rymanów;ul. Klasztorna 3;38-480 Rymanów
+Sieniawa;ul. Lwowska 15;37-530 Sieniawa
+Biała Podlaska;ul. Warszawska 12A;21-500 Biała Podlaska
+Biłgoraj;ul. Lubelska 42;23-400 Biłgoraj
+Chełm;ul. Hrubieszowska 6A;22-100 Chełm
+Chotyłów;ul. Brzeska 35;21-509 Piszczac 
+Gościeradów;Gościeradów-Folwark 46;23-275 Gościeradów
+Janów Lubelski;ul. Zamoyskiego 73;23-300 Janów Lubelski
+Józefów;ul. Leśna 2;23-460 Józefów
+Krasnystaw;ul. Okrzei 23;22-300 Krasnystaw
+Kraśnik;ul. Urzędowska 445;23-204 Kraśnik
+Lubartów;ul. Chmielna 1;21-100 Lubartów
+Międzyrzec;ul. Cisińska 3;21-560 Międzyrzec Podlaski
+Mircze;ul. Sienkiewicza 2;22-530 Mircze
+Nowa Dęba;ul. Leśna 2;39-460 Nowa Dęba
+Parczew;ul. Kościelna 43;21-200 Parczew
+Puławy;ul. Partyzantów 33;24-100 Puławy
+Radzyń Podlaski;ul. Lubelska 57;21-300 Radzyń Podlaski
+Rozwadów;ul. Leśna 1;37-450 Stalowa Wola 
+Rudnik;ul. Rzeszowska 18;37-420 Rudnik nad Sanem
+Sarnaki;ul. Parkowa 4;08-220 Sarnaki
+Sobibór;Wola Uhruska;ul. Parkowa 2;22-230 Wola Uhruska 
+Strzelce;Strzelce 39;21-540 Huszlew 
+Świdnik;ul. Kolejowa 6;21-040 Świdnik
+Tomaszów;ul. Lwowska 48;22-600 Tomaszów Lubelski
+Włodawa;ul. Tysiąclecia 32;22-200 Włodawa
+Zwierzyniec;ul. Partyzantów 3;22-470 Zwierzyniec
+Bełchatów;ul. Krawiecka 4;97-400 Bełchatów
+Brzeziny;ul. Głowackiego 12;95-060 Brzeziny
+Gostynin;ul. Leśna 2;09-500 Gostynin
+Grotniki;ul. Leśna 3;95-030 Grotniki
+Kolumna;ul. Leśna 2;98-220 Zduńska Wola 
+Kutno;ul. Łęczycka 7;99-300 Kutno
+Łąck;ul. Gostynińska 2;09-520 Łąck
+Opoczno;ul. Partyzantów 1A;26-300 Opoczno
+Piotrków;ul. Jerozolimska 49;97-300 Piotrków Trybunalski
+Płock;ul. Kilińskiego 2;09-400 Płock
+Poddębice;ul. Mickiewicza 15;99-200 Poddębice
+Przedbórz;ul. Konecka 33;97-570 Przedbórz
+Radomsko;ul. Reymonta 60;97-500 Radomsko
+Radziwiłłów;Radziwiłłów 20;96-330 Puszcza Mariańska
+Skierniewice;ul. Batorego 66/68;96-100 Skierniewice
+Smardzewice;ul. Leśna 2;97-213 Smardzewice
+Spała;ul. Piłsudskiego 4;97-215 Spała
+Wieluń;ul. Traugutta 2;98-300 Wieluń
+Złoczew;ul. Praski 1;98-270 Złoczew
+Człopa;ul. Strzelecka 2;78-630 Człopa
+Durowo;ul. Kościuszki 40;62-100 Wągrowiec
+Jastrowie;ul. Poznańska 15;64-915 Jastrowie
+Krzyż;ul. Wojska Polskiego 25;64-761 Krzyż Wielkopolski
+Okonek;ul. Leśna 1;77-940 Okonek
+Mirosławiec;ul. Wolności 39;78-650 Mirosławiec
+Podanin;Podanin 33;64-800 Chodzież
+Potrzebowice;Potrzebowice 45;64-730 Wieleń
+Sarbia;Sarbia 50;64-840 Budzyń
+Trzcianka;ul. Sikorskiego 76;64-980 Trzcianka
+Wałcz;ul. Bydgoska 70;78-600 Wałcz
+Wronki;ul. Leśna 7;64-510 Wronki
+Kaczory;ul. Dworcowa 12;64-810 Kaczory
+Zdrojowa Góra;ul. Podgórna 16;64-920 Piła
+Złotów;ul. Leśna 6;77-400 Złotów
+Krucz;Krucz 41;64-710 Lubasz
+Tuczno;ul. Wałecka 26;78-640 Tuczno
+Lipka;ul. Parkowa 1;77-420 Lipka
+Płytnica;Płytnica 1;64-914 Szydłowo
+Kalisz Pomorski;ul. Toruńska 1;78-650 Kalisz Pomorski
+Antonin;ul. Wrocławska 11;63-421 Przygodzice 
+Babki;Babki 2;61-160 Poznań
+Czerniejewo;Głożyna 5;62-250 Czerniejewo
+Gniezno;ul. Wrzesińska 83;62-200 Gniezno
+Góra Śląska;ul. Podwale 31;56-200 Góra
+Grodziec;ul. Leśna 50;62-580 Grodziec
+Grodzisk;Lasówki 1;62-065 Grodzisk Wielkopolski
+Jarocin;ul. Tadeusza Kościuszki 43;63-200 Jarocin
+Kalisz;Szałe;ul. Kaliska 195;62-860 Opatówek 
+Karczma Borowa;ul. Leszczyńska 39 (Kąkolewo);64-100 Leszno
+Koło;Gaj Stolarski 2;87-865 Izbica Kujawska 
+Konin;ul. Gajowa 2;62-510 Konin
+Konstantynowo;Konstantynowo 1;62-053 Mosina
+Kościan;Kurza Góra;ul. Gostyńska 89;64-000 Kościan
+Krotoszyn;ul. Wiewiórowskiego 70;63-700 Krotoszyn
+Łopuchówko;Łopuchówko 1;62-095 Murowana Goślina
+Oborniki;Dąbrówka Leśna;ul. Gajowa 1;64-600 Oborniki
+Piaski;ul. Drzęczewska 1;63-820 Piaski
+Pniewy;ul. Turowska 1;62-045 Pniewy
+Przedborów;Przedborów 49;63-510 Mikstat
+Sieraków;Bucharzewo 153;64-410 Sieraków
+Syców;ul. Działosza 88;56-500 Syców
+Taczanów;Taczanów Drugi 43;63-300 Pleszew 
+Turek;ul. Chopina 70;62-700 Turek
+Włoszakowice;ul. Wolsztyńska 13E;64-140 Włoszakowice
+Barycz;Barycz 51;26-200 Końskie
+Chmielnik;ul. Kielecka 30;26-020 Chmielnik
+Daleszyce;ul. Sienkiewicza 11;26-021 Daleszyce
+Dobieszyn;Dobieszyn 79;26-804 Promna
+Grójec;ul. Mogielnicka 41;05-600 Grójec
+Jędrzejów;ul. 11 Listopada 84;28-300 Jędrzejów
+Kielce;ul. Solna 21;25-407 Kielce
+Kozienice;ul. Lubelska 5;26-900 Kozienice
+Łagów;ul. Opatowska 16;26-025 Łagów
+Marcule;Marcule 1;27-100 Iłża
+Ostrowiec Świętokrzyski;ul. Traugutta 5;27-400 Ostrowiec Świętokrzyski
+Pińczów;ul. 3 Maja 10;28-400 Pińczów
+Przysucha;ul. Radomska 42;26-400 Przysucha
+Radom;ul. 25 Czerwca 68;26-600 Radom
+Radoszyce;ul. Targowa 2A;26-230 Radoszyce
+Skarżysko;ul. Tysiąclecia 22;26-110 Skarżysko-Kamienna
+Starachowice;ul. Radomska 29;27-200 Starachowice
+Staszów;ul. Oględowska 5;28-200 Staszów
+Stąporków;ul. 1 Maja 32;26-220 Stąporków
+Suchedniów;ul. Bodzentyńska 18;26-130 Suchedniów
+Włoszczowa;ul. Partyzantów 86;29-100 Włoszczowa
+Zagnańsk;ul. Spacerowa 2;26-050 Zagnańsk
+Zwoleń;ul. Wojska Polskiego 78;26-700 Zwoleń
+Barlinek;ul. Gorzowska 3;74-320 Barlinek
+Bierzwnik;ul. Dworcowa 12;73-240 Bierzwnik
+Bogdaniec;ul. Leśna 2;66-450 Bogdaniec
+Bolewice;ul. Poznańska 14;64-360 Bolewice
+Chojna;ul. Dworcowa 12;74-500 Chojna
+Choszczno;ul. Bolesława Chrobrego 30;73-200 Choszczno
+Dębno;ul. Kościuszki 22;74-400 Dębno
+Dobrzany;ul. Stargardzka 20;73-130 Dobrzany
+Drawno;ul. Kolejowa 2;73-220 Drawno
+Głusko;Głusko 43;73-221 Bierzwnik 
+Goleniów;ul. Wojska Polskiego 10;72-100 Goleniów
+Gryfice;ul. Piastowska 31;72-300 Gryfice
+Gryfino;ul. Parkowa 1;74-100 Gryfino
+Karwin;Karwin 1;66-530 Drezdenko
+Kliniska;Kliniska Wielkie;ul. Szczecińska 30;72-100 Goleniów
+Kłodawa;ul. Gorzowska 38;66-415 Kłodawa
+Lubniewice;ul. Sulęcińska 3;69-210 Lubniewice
+Łobez;ul. Drawska 8;73-150 Łobez
+Mieszkowice;ul. Dworcowa 21;74-505 Mieszkowice
+Międzychód;ul. Spokojna 16;64-400 Międzychód
+Międzyrzecz;ul. Wojska Polskiego 2A;66-300 Międzyrzecz
+Międzyzdroje;ul. Bohaterów Warszawy 18;72-500 Międzyzdroje
+Myślibórz;ul. Spokojna 1;74-300 Myślibórz
+Nowogard;ul. Wojska Polskiego 12;72-200 Nowogard
+Ośno Lubuskie;ul. Toruńska 3;69-220 Ośno Lubuskie
+Resko;ul. Łobeska 3;72-315 Resko
+Rokita;Rokita 35;72-100 Goleniów
+Różańsko;Różańsko 88;74-404 Dębno
+Rzepin;ul. Sienkiewicza 6;69-110 Rzepin
+Skwierzyna;ul. Poznańska 29;66-440 Skwierzyna
+Smolarz;Smolarz 1;66-530 Drezdenko
+Strzelce Krajeńskie;ul. Al. Wolności 35;65-042 Strzelce Krajeńskie 
+Sulęcin;ul. Dworcowa 21;69-200 Sulęcin
+Trzciel;ul. Zamkowa 2;64-320 Trzciel
+Trzebież;ul. Dworcowa 24;72-020 Trzebież
+Białogard;ul. Zwycięstwa 13;78-200 Białogard
+Bobolice;ul. Koszalińska 75;78-050 Bobolice
+Borne Sulinowo;ul. Leśna 1;78-449 Borne Sulinowo
+Bytów;ul. Lęborska 9;77-100 Bytów
+Czaplinek;ul. Drahimska 36;78-550 Czaplinek
+Czarne Człuchowskie;ul. Zamkowa 1;77-330 Czarne 
+Czarnobór;Czarnobór 1;78-400 Szczecinek
+Człuchów;ul. Szczecinecka 2;77-300 Człuchów
+Damnica;ul. Słupska 31;76-231 Damnica
+Drawsko;ul. Złocieniecka 25;78-500 Drawsko Pomorskie
+Dretyń;Dretyń 35;77-200 Miastko
+Gościno;ul. IV Dywizji Wojska Polskiego 60;78-120 Gościno
+Karnieszewice;Karnieszewice 3;76-004 Sianów
+Leśny Dwór;Leśny Dwór 1;77-133 Borzytuchom
+Łupawa;Łupawa 37;76-214 Główczyce
+Manowo;Manowo 38;76-015 Manowo
+Miastko;ul. Dworcowa 29;77-200 Miastko
+Niedźwiady;Niedźwiady 1;89-632 Karsin
+Osusznica;Osusznica 35;77-133 Borzytuchom
+Polanów;ul. Sikorskiego 16;76-010 Polanów
+Połczyn;ul. Zdrojowa 6;78-320 Połczyn-Zdrój
+Sławno;ul. Cieszkowskiego 2;76-100 Sławno
+Świdwin;ul. Połczyńska 42;78-300 Świdwin
+Świerczyna;Świerczyna 45;78-552 Wierzchowo
+Szczecinek;ul. Kościuszki 38;78-400 Szczecinek
+Trzebielino;ul. Leśna 1;77-235 Trzebielino
+Brodnica;ul. Sądowa 16;87-300 Brodnica
+Bydgoszcz;ul. Sosnowa 9;86-005 Białe Błota 
+Cierpiszewo;ul. Sosnowa 42;87-165 Cierpice
+Czersk;Malachin;ul. Cisowa 12;89-650 Czersk
+Dąbrowa;ul. Leśna 25;86-131 Jeżewo
+Dobrzejewice;Zawały;87-123 Dobrzejewice
+Gniewkowo;ul. Dworcowa 10;88-140 Gniewkowo
+Golub-Dobrzyń;Konstancjewo;87-400 Golub-Dobrzyń
+Gołąbki;Gołąbki 5;88-420 Rogowo
+Jamy;Jamy 5;86-318 Rogóźno
+Lutówko;Lutówko 1;89-407 Lutówko
+Miradz;Miradz 12;88-320 Strzelno
+Osie;ul. Rynek 11;86-150 Osie
+Przymuszewo;Leśno 46;89-634 Leśno
+Różanna;ul. Leśna 5;86-010 Koronowo
+Runowo;Runowo 55;89-421 Runowo Krajeńskie
+Rytel;Rytel-Dworzec 4;89-642 Rytel
+Skrwilno;ul. Leśna 5;87-510 Skrwilno
+Solec Kujawski;ul. Leśna 64;86-050 Solec Kujawski
+Szubin;Szubin Wieś 52;89-200 Szubin
+Toruń;ul. Polna 34/38;87-100 Toruń
+Trzebciny;Trzebciny 30;89-505 Małe Gacno
+Tuchola;Gołąbek 4;89-500 Tuchola
+Włocławek;ul. Ziębia 13;87-800 Włocławek
+Woziwoda;Legbąd;89-504 Legbąd 
+Zamrzenica;Zamrzenica 1;89-510 Bysław
+Żołędowo;ul. Parkowa 4A;86-031 Osielsko
+Celestynów;ul. Regucka 3;05-430 Celestynów
+Chojnów;ul. Jarzębinowa 2;05-540 Zalesie Górne 
+Drewnica;ul. Marszałka Józefa Piłsudskiego 56;05-260 Marki
+Garwolin;ul. Polna 2;08-400 Garwolin
+Jabłonna;ul. Modlińska 100;05-110 Jabłonna
+Łochów;ul. Fabryczna 46;07-130 Łochów
+Łuków;ul. Partyzantów 8;21-400 Łuków
+Mińsk;ul. Leśna 1;05-300 Mińsk Mazowiecki
+Siedlce;ul. Brzeska 49;08-110 Siedlce
+Sokołów;ul. Kossaka 17;08-300 Sokołów Podlaski
+Ostrów Mazowiecka;ul. Widnichowska 6;07-300 Ostrów Mazowiecka
+Płońsk;ul. Płocka 62;09-100 Płońsk
+Pułtusk;ul. Warszawska 34;06-100 Pułtusk
+Wyszków;ul. Leśna 3;07-200 Wyszków
+Bardo Śląskie;ul. Główna 1B;57-256 Bardo
+Bolesławiec;ul. Tadeusza Kościuszki 22;59-700 Bolesławiec
+Bystrzyca Kłodzka;ul. Wojska Polskiego 13;57-500 Bystrzyca Kłodzka
+Chocianów;ul. Szprotawska 4;59-140 Chocianów
+Głogów;ul. Generała Władysława Sikorskiego 54;67-200 Głogów
+Henryków;ul. Cysterska 2;57-210 Ziębice 
+Jawor;ul. Dąbrowskiego 2;59-400 Jawor
+Jugów;ul. Główna 149;57-430 Jugów
+Kamienna Góra;ul. Papieża Jana Pawła II 18;58-400 Kamienna Góra
+Lądek Zdrój;Strachocin 42;57-550 Stronie Śląskie 
+Legnica;ul. Złotoryjska 178;59-220 Legnica
+Lubin;ul. Narutowicza 3A;59-300 Lubin
+Lwówek Śląski;ul. Orzeszkowej 10;59-600 Lwówek Śląski
+Międzylesie;ul. Dworcowa 1;57-530 Międzylesie
+Miękinia;ul. Willowa 2;55-330 Miękinia
+Milicz;ul. Trzebnicka 4;56-300 Milicz
+Oborniki Śląskie;ul. Trzebnicka 30;55-120 Oborniki Śląskie
+Oleśnica Śląska;ul. Wrocławska 42;56-400 Oleśnica
+Oława;ul. 3 Maja 1;55-200 Oława
+Pieńsk;ul. Bolesławiecka 9;59-930 Pieńsk
+Przemków;ul. Leśna 7;59-170 Przemków
+Ruszów;ul. Słowackiego 1;59-950 Ruszów
+Szklarska Poręba;ul. Słowackiego 5;58-580 Szklarska Poręba
+Śnieżka;ul. Leśna 4A;58-530 Kowary
+Świdnica;ul. Saperska 23;58-100 Świdnica
+Świeradów;ul. Włókniarzy 4;59-850 Świeradów-Zdrój
+Świętoszów;ul. Saperska 2;59-726 Świętoszów
+Wałbrzych;ul. Długa 47;58-309 Wałbrzych
+Węgliniec;ul. Kolejowa 23;59-940 Węgliniec
+Wołów;ul. Leśna 1;56-100 Wołów
+Zdroje;ul. Krótka 5;57-330 Szczytna 
+Złotoryja;ul. Legnicka 12;59-500 Złotoryja
+Żmigród;ul. Parkowa 3;51-140 Żmigród
+Babimost;ul. Nowonapoleńska 2;66-110 Babimost
+Brzózka;Brzózka 39;66-620 Krosno Odrzańskie
+Bytnica;Bytnica 60;66-630 Bytnica
+Cybinka;ul. Skarbowa 3;69-108 Cybinka
+Gubin;ul. Śląska 20;66-620 Gubin
+Krosno;ul. Bohaterów Wojska Polskiego 30;66-600 Krosno Odrzańskie 
+Krzystkowice;ul. Leśna 1;66-010 Nowogród Bobrzański 
+Lipinki;Lipinki 63;68-213 Lipinki
+Lubsko;ul. Śródmiejska 3;68-300 Lubsko
+Nowa Sól;ul. Stanisława Moniuszki 12;67-100 Nowa Sól
+Przytok;Przytok;ul. Parkowa 1;66-003 Zabór
+Sława Śląska;ul. Henryka Pobożnego 7;67-410 Sława
+Sulechów;ul. Jana Pawła II 13;66-100 Sulechów
+Szprotawa;ul. Henryka Brodatego 1;67-300 Szprotawa
+Świebodzin;ul. Kilińskiego 3;66-200 Świebodzin
+Torzym;ul. Sułowska 2;69-210 Torzym
+Wolsztyn;ul. Drzymały 12;64-200 Wolsztyn
+Wymiarki;ul. Bolesławiecka 12;68-131 Wymiarki
+Zielona Góra;ul. Anieli Krzywoń 2A;65-001 Zielona Góra
+Żagań;ul. Warszawska 9;68-100 Żagań
