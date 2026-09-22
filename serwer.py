@@ -112,9 +112,11 @@ class GeoHandler(http.server.SimpleHTTPRequestHandler):
 
     def do_GET(self):
         parsed_url = urllib.parse.urlparse(self.path)
+        # Usuwamy ewentualny ukośnik na końcu ścieżki, żeby uniknąć błędów 404
+        path = parsed_url.path.rstrip('/')
 
         # Obsługa licznika odwiedzin (zwiększanie przy wejściu na stronę)
-        if parsed_url.path == '/api/hit':
+        if path == '/api/hit':
             visits = get_and_increment_visits()
             print(f"--> [STATYSTYKI] Wejście na stronę! Łączna liczba odwiedzin: {visits}")
             response_data = {"visits": visits}
@@ -125,8 +127,8 @@ class GeoHandler(http.server.SimpleHTTPRequestHandler):
             self.wfile.write(json.dumps(response_data, ensure_ascii=False).encode('utf-8'))
             return
 
-        # Nowy adres do podglądu statystyk bez zwiększania licznika
-        if parsed_url.path == '/api/stats':
+        # Podgląd statystyk bez zwiększania licznika
+        if path == '/api/stats':
             visits = get_current_visits()
             response_data = {"total_visits": visits}
             self.send_response(200)
@@ -136,7 +138,7 @@ class GeoHandler(http.server.SimpleHTTPRequestHandler):
             self.wfile.write(json.dumps(response_data, ensure_ascii=False).encode('utf-8'))
             return
 
-        if parsed_url.path == '/api/check':
+        if path == '/api/check':
             query_params = urllib.parse.parse_qs(parsed_url.query)
             try:
                 lat = float(query_params['lat'][0])
