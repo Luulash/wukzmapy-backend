@@ -66,6 +66,27 @@ def get_nadlesnictwo_address(target_name):
     return ""
 
 
+def get_and_increment_visits():
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    txt_path = os.path.join(script_dir, 'visits.txt')
+    count = 0
+    if os.path.exists(txt_path):
+        try:
+            with open(txt_path, 'r', encoding='utf-8') as f:
+                content = f.read().strip()
+                if content.isdigit():
+                    count = int(content)
+        except:
+            pass
+    count += 1
+    try:
+        with open(txt_path, 'w', encoding='utf-8') as f:
+            f.write(str(count))
+    except Exception as e:
+        print("Błąd zapisu odwiedzin:", e)
+    return count
+
+
 class GeoHandler(http.server.SimpleHTTPRequestHandler):
     def do_OPTIONS(self):
         self.send_response(200)
@@ -73,8 +94,22 @@ class GeoHandler(http.server.SimpleHTTPRequestHandler):
         self.send_header('Access-Control-Allow-Methods', 'GET, OPTIONS')
         self.send_header('Access-Control-Allow-Headers', 'Content-Type')
         self.end_headers()
+
     def do_GET(self):
         parsed_url = urllib.parse.urlparse(self.path)
+
+        # Obsługa licznika odwiedzin
+        if parsed_url.path == '/api/hit':
+            visits = get_and_increment_visits()
+            print(f"--> [STATYSTYKI] Wejście na stronę! Łączna liczba odwiedzin: {visits}")
+            response_data = {"visits": visits}
+            self.send_response(200)
+            self.send_header('Content-Type', 'application/json; charset=utf-8')
+            self.send_header('Access-Control-Allow-Origin', '*')
+            self.end_headers()
+            self.wfile.write(json.dumps(response_data, ensure_ascii=False).encode('utf-8'))
+            return
+
         if parsed_url.path == '/api/check':
             query_params = urllib.parse.parse_qs(parsed_url.query)
             try:
@@ -155,7 +190,6 @@ class GeoHandler(http.server.SimpleHTTPRequestHandler):
                                     if not nadlesnictwo: nadlesnictwo = "Nadleśnictwo"
                                     if not compartment_cd: compartment_cd = "Brak"
 
-                                    # Pobranie adresu nadleśnictwa z pliku nadlesnictwo.txt
                                     nadl_address = get_nadlesnictwo_address(nadlesnictwo)
 
                                     if nadl_address:
@@ -182,6 +216,7 @@ class GeoHandler(http.server.SimpleHTTPRequestHandler):
                 self.wfile.write(str(ex).encode('utf-8'))
         else:
             super().do_GET()
+
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
